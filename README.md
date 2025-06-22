@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Juan-7u7/Juan-7u7/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Juan-7u7/Juan-7u7/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
