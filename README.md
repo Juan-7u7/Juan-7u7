@@ -4,11 +4,7 @@
 
 <h2 align="right">My name is Juan and I'm a Software Developer Jr.</h2>
 
-###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/127238770?v=4"  />
-
-###
 
 <h3 align="left">My prefered languages:</h3>
 
@@ -106,9 +102,6 @@
   </a>
   <a href="https://www.instagram.com/tr_crls.py/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="juanhdztr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
